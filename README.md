@@ -1,3 +1,11 @@
 # Media-queries
 
-Creación de Ecommerce con temática automovilística usando tecnologías Flexbox, Grid y Media Queries.
+Creación de sitio web Ecommerce con temática automovilística.
+
+Tecnologías utilizadas:
+- _**HTML**_
+- _**CSS Avanzado**_
+ (CSS Grid, Flexbox, Media Queries)
+
+
+Puedes visualizar este proyecto dando click en el siguiehte link https://kathe-hub.github.io/Media-queries/
